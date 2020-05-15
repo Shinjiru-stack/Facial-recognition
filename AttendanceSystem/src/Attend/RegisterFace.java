@@ -67,9 +67,7 @@ public class RegisterFace extends JFrame {
 	JDateChooser dob ;
 	JComboBox branch,year;
 
-	/**
-	 * Launch the application.
-	 */
+	
 	public static void main(String[] args) {
 		
 		 try {
