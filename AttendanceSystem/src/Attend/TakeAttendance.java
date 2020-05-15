@@ -59,7 +59,7 @@ public class TakeAttendance extends JFrame {
 
     private DaemonThread myThread = null;
 
-    //JavaCV 1.5.1
+
     VideoCapture webSource = null;
     Mat cameraImage = new Mat();
     CascadeClassifier cascade = new CascadeClassifier("C:\\photos\\haarcascade_frontalface_alt.xml");
