@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/opencv-2.4.9/opencv/build/java/opencv-249.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/SHINJIRU/Pictures/Essentials/opencv-2.4.9/opencv/build/java/x64"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-0.7-bin/javacv-bin/javacpp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-0.7-bin/javacv-bin/javacv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-0.7-bin/javacv-bin/javacv-windows-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-0.7-bin/javacv-bin/javacv-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-0.7-cppjars/javacv-cppjars/ffmpeg-2.1.1-windows-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-0.7-cppjars/javacv-cppjars/ffmpeg-2.1.1-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-0.7-cppjars/javacv-cppjars/opencv-2.4.8-windows-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-0.7-cppjars/javacv-cppjars/opencv-2.4.8-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/jar_files(1)/librealsense-1.12.1-1.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/jar_files(1)/librealsense-1.12.1-1.4.4-windows-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/jar_files(1)/librealsense-1.12.1-1.4.4-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/jar_files(1)/librealsense-platform-1.12.1-1.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/opencv-3.0.0/opencv/build/java/opencv-300.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/SHINJIRU/Pictures/Essentials/opencv-3.0.0/opencv/build/java/x64"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/deploy.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/javaws.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/jce.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/jfr.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/jfxswt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/management-agent.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/mysql-connector-java-5.1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/plugin.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/resources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/artoolkitplus.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/artoolkitplus-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/ffmpeg.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/ffmpeg-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/flandmark.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/flandmark-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/flycapture.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/flycapture-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/javacpp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/javacv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/leptonica.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/leptonica-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/libdc1394.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/libdc1394-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/libfreenect.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/libfreenect2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/libfreenect2-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/libfreenect-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/librealsense.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/librealsense2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/librealsense2-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/librealsense-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/openblas.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/openblas-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/opencv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/opencv-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/tesseract.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/tesseract-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/videoinput.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/javacv-platform-1.5.2-bin/videoinput-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_251/lib/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/Facial-Recognition-master/lib/jFreeChart/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/Facial-Recognition-master/lib/jFreeChart/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/Facial-Recognition-master/lib/jFreeChart/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/Facial-Recognition-master/lib/jFreeChart/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/Facial-Recognition-master/lib/jFreeChart/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/Facial-Recognition-master/lib/jFreeChart/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/Facial-Recognition-master/lib/jFreeChart/orsonpdf-1.6-eval.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/Facial-Recognition-master/lib/jFreeChart/servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SHINJIRU/Pictures/Essentials/Facial-Recognition-master/lib/jFreeChart/swtgraphics2d.jar"/>
+	<classpathentry kind="lib" path="D:/Training/AttendanceSystem/jars/rs2xml.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
